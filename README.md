@@ -11,3 +11,8 @@ Run with make, executable name is `fillit`.
 ## Usage
 
 `./fillit [file]`
+
+## Objectives
+
+Basic Algorithms
+input/output
